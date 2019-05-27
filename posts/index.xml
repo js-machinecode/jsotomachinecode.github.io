@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Super Jeeve&#39;s Site</title>
+    <link>http://jsotomachinecode.github.io/posts/</link>
+    <description>Recent content in Posts on Super Jeeve&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 May 2019 16:22:19 -0400</lastBuildDate>
+    
+	<atom:link href="http://jsotomachinecode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Learning Slump</title>
+      <link>http://jsotomachinecode.github.io/2019/05/the-learning-slump/</link>
+      <pubDate>Sun, 26 May 2019 16:22:19 -0400</pubDate>
+      
+      <guid>http://jsotomachinecode.github.io/2019/05/the-learning-slump/</guid>
+      <description>What I call the learning slump is the difficult times one has thinking of the first question. The initial beginning of learning is what I call the learning slump. Too much time wasted on hesitation. BTW this is my first post!</description>
+    </item>
+    
+  </channel>
+</rss>
